@@ -1,1 +1,4 @@
 Hello world! (SOME NEW TEXT)
+
+def print_hello():
+    return "hello"
